@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ali-homayouni
-- 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning Clustering and Classification in NLP+
+- 👀 I’m interested in Natural Language Processing, Cloud Development, and Python!
+- 🌱 I’m currently learning and working with Microsoft Azure, Data Analysis, DevOps+
 - 📫 How to reach me: https://www.linkedin.com/in/alihomayouni1995/
 - ✔✔ As you see, my repository is not full of projects. Most of my projects have been done for others, and I can not make them public. Check my LinkedIn to get more about my Projects.
 
